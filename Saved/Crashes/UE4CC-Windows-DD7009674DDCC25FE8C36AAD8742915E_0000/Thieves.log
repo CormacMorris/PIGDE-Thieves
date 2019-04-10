@@ -1,0 +1,1237 @@
+﻿Log file open, 04/10/19 18:01:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Thieves
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.067240
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.197s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.10-17.01.26:646][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.10-17.01.26:646][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.10-17.01.26:689][  0]LogHAL: Display: Platform has ~ 32 GB [34315276288 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.10-17.01.26:706][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.10-17.01.26:713][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.10-17.01.26:775][  0]LogInit: Computer: MSI
+[2019.04.10-17.01.26:775][  0]LogInit: User: Cormac
+[2019.04.10-17.01.26:775][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.10-17.01.26:775][  0]LogInit: High frequency timer resolution =2.648441 MHz
+[2019.04.10-17.01.26:776][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.04.10-17.01.26:776][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.10-17.01.26:776][  0]LogMemory: Process Physical Memory: 102.70 MB used, 102.70 MB peak
+[2019.04.10-17.01.26:776][  0]LogMemory: Process Virtual Memory: 92.97 MB used, 92.97 MB peak
+[2019.04.10-17.01.26:776][  0]LogMemory: Physical Memory: 15370.18 MB used,  17355.42 MB free, 32725.60 MB total
+[2019.04.10-17.01.26:776][  0]LogMemory: Virtual Memory: 4654.03 MB used,  17355.42 MB free, 134217728.00 MB total
+[2019.04.10-17.01.27:565][  0]LogInit: Using OS detected language (en-US).
+[2019.04.10-17.01.27:565][  0]LogInit: Using OS detected locale (en-GB).
+[2019.04.10-17.01.27:577][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.10-17.01.28:373][  0]LogStreaming: Display: Took  0.783s to InitEngineTextLocalization.
+[2019.04.10-17.01.28:389][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.10-17.01.28:788][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.10-17.01.28:789][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.10-17.01.31:534][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.04.10-17.01.31:534][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.10-17.01.31:665][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.04.10-17.01.31:665][  0]LogD3D11RHI:       8079/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.10-17.01.31:669][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.10-17.01.31:669][  0]LogD3D11RHI:       0/0/16362 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.10-17.01.31:669][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.10-17.01.31:684][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.10-17.01.31:684][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.10-17.01.31:698][  0]LogWindows: EnumDisplayDevices:
+[2019.04.10-17.01.31:698][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.04.10-17.01.31:698][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.04.10-17.01.31:699][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.04.10-17.01.31:699][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.04.10-17.01.31:700][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.10-17.01.31:700][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.04.10-17.01.31:700][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.04.10-17.01.31:700][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.04.10-17.01.31:700][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.04.10-17.01.31:776][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.10-17.01.32:004][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.10-17.01.32:098][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (C:/Users/Cormac/Desktop/PIGDE-Thieves/Intermediate/Shaders/WorkingDirectory/20528/).
+[2019.04.10-17.01.32:099][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cormac/AppData/Local/Temp/UnrealShaderWorkingDir/46211A974589B072524D88B527FD9DF5/'.
+[2019.04.10-17.01.32:845][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.10-17.01.32:892][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.10-17.01.32:942][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.10-17.01.32:985][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.10-17.01.33:044][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.10-17.01.33:108][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.10-17.01.33:159][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.10-17.01.33:197][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.10-17.01.33:219][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:413][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-17.01.33:441][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.10-17.01.33:658][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.10-17.01.33:658][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.10-17.01.33:728][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.10-17.01.33:728][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.10-17.01.33:775][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.10-17.01.33:814][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.10-17.01.33:865][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.10-17.01.33:920][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.10-17.01.33:964][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.10-17.01.33:964][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.10-17.01.34:677][  0]LogXGEController: Cleaning working directory: C:/Users/Cormac/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.10-17.01.34:677][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.10-17.01.34:677][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.10-17.01.34:677][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.10-17.01.37:656][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.10-17.01.37:863][  0]LogDerivedDataCache: Loaded boot cache 0.21s 71MB C:/Users/Cormac/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.10-17.01.37:863][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cormac/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.10-17.01.37:864][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Cormac/Desktop/PIGDE-Thieves/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.10-17.01.37:864][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.10-17.01.37:864][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Cormac/Desktop/PIGDE-Thieves/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.10-17.01.37:864][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.10-17.01.37:914][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.10-17.01.37:927][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cormac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.10-17.01.37:927][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.10-17.01.37:927][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.10-17.01.37:989][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.10-17.01.38:042][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.10-17.01.38:076][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.10-17.01.38:522][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2019.04.10-17.01.39:954][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.10-17.01.41:310][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.10-17.01.41:458][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.10-17.01.41:470][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.10-17.01.41:490][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.10-17.01.41:490][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.10-17.01.41:781][  0]LogNetVersion: Thieves 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1537642208)
+[2019.04.10-17.01.45:991][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.144403 seconds
+[2019.04.10-17.01.46:037][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.10-17.01.46:037][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.04.10-17.01.46:037][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.10-17.01.56:037][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.10-17.01.56:078][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.10-17.01.57:088][  0]SourceControl: Source control is disabled
+[2019.04.10-17.01.57:094][  0]SourceControl: Source control is disabled
+[2019.04.10-17.01.57:256][  0]SourceControl: Source control is disabled
+[2019.04.10-17.01.57:281][  0]SourceControl: Source control is disabled
+[2019.04.10-17.01.58:557][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.10-17.01.58:824][  0]LogOcInput: OculusInput pre-init called
+[2019.04.10-17.01.59:374][  0]LogEngine: Initializing Engine...
+[2019.04.10-17.01.59:436][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.04.10-17.01.59:445][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.10-17.01.59:445][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.10-17.01.59:446][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.10-17.01.59:446][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.10-17.02.00:139][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.10-17.02.00:440][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.10-17.02.00:667][  0]LogInit: XAudio2 using 'Speakers (4- M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-17.02.00:682][  0]LogInit: FAudioDevice initialized.
+[2019.04.10-17.02.00:682][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.10-17.02.00:831][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/Cormac/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.10-17.02.00:844][  0]LogInit: Texture streaming: Enabled
+[2019.04.10-17.02.00:980][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.10-17.02.01:139][  0]LogInit: Transaction tracking system initialized
+[2019.04.10-17.02.01:511][  0]BlueprintLog: New page: Editor Load
+[2019.04.10-17.02.02:732][  0]LocalizationService: Localization service is disabled
+[2019.04.10-17.02.03:289][  0]LogLinker: Warning: Can't find file '/Game/ThievesContent/ThirdPersonOverview'
+[2019.04.10-17.02.03:289][  0]LogLinker: Warning: Can't find file '/Game/ThievesContent/ThirdPersonOverview'
+[2019.04.10-17.02.03:289][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThievesContent/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.04.10-17.02.04:858][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.10-17.02.04:858][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.10-17.02.04:877][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/' took 0.03s
+[2019.04.10-17.02.04:877][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.10-17.02.04:877][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.10-17.02.04:877][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.10-17.02.04:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.10-17.02.04:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.10-17.02.06:587][  0]SourceControl: Source control is disabled
+[2019.04.10-17.02.06:619][  0]Cmd: MAP LOAD FILE="C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-17.02.06:619][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.04.10-17.02.06:619][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-17.02.06:717][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 98.203ms to complete.
+[2019.04.10-17.02.06:717][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.116
+[2019.04.10-17.02.07:999][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.02.08:020][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.02.08:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.02.08:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.02.08:093][  0]LogCollectionManager: Loaded 0 collections in 0.002004 seconds
+[2019.04.10-17.02.08:252][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Saved/Collections/' took 0.02s
+[2019.04.10-17.02.08:252][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/Developers/Cormac/Collections/' took 0.02s
+[2019.04.10-17.02.08:252][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/Collections/' took 0.04s
+[2019.04.10-17.02.08:252][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.10-17.02.08:269][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2572 classes and 603 folders.
+[2019.04.10-17.02.08:348][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.10-17.02.09:259][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.10-17.02.09:313][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.10-17.02.10:134][  0]LogSlate: Took 0.014013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.10-17.02.10:142][  0]LogSlate: Took 0.005855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.10-17.02.10:230][  0]LogSlate: Took 0.018844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.10-17.02.10:769][  0]LogRenderer: Reallocating scene render targets to support 1204x624 Format 10 NumSamples 1 (Frame:1).
+[2019.04.10-17.02.11:396][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.10-17.02.11:396][  0]LogLoad: (Engine Initialization) Total time: 55.61 seconds
+[2019.04.10-17.02.11:396][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.10-17.02.11:611][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.10-17.02.12:000][  2]LogSlate: Took 0.017565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-17.02.12:028][  3]LogAssetRegistry: Asset discovery search completed in 33.5300 seconds
+[2019.04.10-17.02.12:030][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.10-17.02.12:030][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2019.04.10-17.02.38:160][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.02.38:297][153]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-17.02.40:611][153]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.10-17.02.40:902][153]LogAssetEditorManager: Opening Asset editor for World /Game/ThievesContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.04.10-17.02.41:075][153]Cmd: MAP LOAD FILE="C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThievesContent/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-17.02.41:075][153]LightingResults: New page: Lighting Build
+[2019.04.10-17.02.41:095][153]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.04.10-17.02.41:096][153]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.04.10-17.02.41:125][153]MapCheck: New page: Map Check
+[2019.04.10-17.02.41:125][153]LightingResults: New page: Lighting Build
+[2019.04.10-17.02.41:469][153]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-17.02.41:559][153]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-17.02.41:623][153]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.131ms to complete.
+[2019.04.10-17.02.41:623][153]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.562
+[2019.04.10-17.02.46:777][409]LogMetaData: Removing '/Game/ThievesContent/Maps/GameMap.GameMap_C' ref from Metadata '/Game/ThievesContent/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.04.10-17.02.46:777][409]LogMetaData: Removing '/Game/ThievesContent/Maps/GameMap.SKEL_GameMap_C' ref from Metadata '/Game/ThievesContent/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.04.10-17.02.46:803][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThievesContent/Maps/GameMap_BuiltData" FILE="C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThievesContent/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2019.04.10-17.02.47:021][409]LogSavePackage: Moving 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Saved/GameMap_BuiltData450A966C4B217AF5B2571487FBBAF04C.tmp' to 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThievesContent/Maps/GameMap_BuiltData.uasset'
+[2019.04.10-17.02.47:147][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThievesContent/Maps/GameMap" FILE="C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThievesContent/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.10-17.02.47:378][409]LogSavePackage: Moving 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Saved/GameMap5FC12658458E54EFF471E6A6C170A7F7.tmp' to 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThievesContent/Maps/GameMap.umap'
+[2019.04.10-17.02.47:418][409]LogFileHelpers: Saving map 'GameMap' took 0.360
+[2019.04.10-17.02.52:489][564]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.10-17.02.52:592][564]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Thieves
+[2019.04.10-17.02.52:592][564]LogTemp: CWD: D:\Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.04.10-17.02.52:592][564]LogTemp: Initial Dir: D:\Games\UE_4.20
+[2019.04.10-17.02.52:592][564]LogTemp: Env CWD: D:\Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.04.10-17.02.52:592][564]LogTemp: BranchPath = MSI/D/Games/UE_4.20/Engine/Binaries --- GameBranchPath = MSI/D/Games/UE_4.20/Engine/Binaries
+[2019.04.10-17.02.52:592][564]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Cormac\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.04.10-17.02.54:246][657]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.04.10-17.02.54:247][657]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.04.10-17.02.54:247][657]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2019.04.10-17.03.02:138][ 84]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.10-17.03.02:144][ 84]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.10-17.03.04:157][197]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.03.04:157][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-17.03.04:239][197]PIE: New page: PIE session: GameMap (10 Apr 2019 19:03:04)
+[2019.04.10-17.03.04:239][197]LogPlayLevel: Creating play world package: /Game/ThievesContent/Maps/UEDPIE_0_GameMap
+[2019.04.10-17.03.04:259][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019902s)
+[2019.04.10-17.03.04:260][197]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.03.04:260][197]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2019.04.10-17.03.04:260][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThievesContent/Maps/GameMap.GameMap to /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap (0.020972s)
+[2019.04.10-17.03.04:324][197]LogInit: XAudio2 using 'Speakers (4- M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-17.03.04:331][197]LogInit: FAudioDevice initialized.
+[2019.04.10-17.03.04:391][197]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.10-17.03.04:412][197]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.03.04
+[2019.04.10-17.03.04:431][197]LogWorld: Bringing up level for play took: 0.023902
+[2019.04.10-17.03.04:493][197]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2019.04.10-17.03.04:557][197]PIE: Play in editor start time for /Game/ThievesContent/Maps/UEDPIE_0_GameMap 0.24
+[2019.04.10-17.03.04:557][197]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.03.23:563][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.03.23:600][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.03.23:637][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-17.03.23:637][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.03.23:671][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.03.23:691][313]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.04.10-17.12.08:154][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.12.47:728][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.12.48:851][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.12.49:812][807]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.10-17.12.49:880][807]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Thieves
+[2019.04.10-17.12.49:880][807]LogTemp: CWD: D:\Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.04.10-17.12.49:880][807]LogTemp: Initial Dir: D:\Games\UE_4.20
+[2019.04.10-17.12.49:880][807]LogTemp: Env CWD: D:\Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.04.10-17.12.49:883][807]LogTemp: BranchPath = MSI/D/Games/UE_4.20/Engine/Binaries --- GameBranchPath = MSI/D/Games/UE_4.20/Engine/Binaries
+[2019.04.10-17.12.49:903][807]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Cormac\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.04.10-17.13.04:281][652]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.10-17.13.04:286][652]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.10-17.14.27:204][298]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.04.10-17.14.35:361][763]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.14.35:970][799]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.04.10-17.14.40:307][ 30]Cmd: DELETE
+[2019.04.10-17.14.40:307][ 30]Cmd: ACTOR DELETE
+[2019.04.10-17.14.40:622][ 30]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2019.04.10-17.14.40:650][ 30]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.04.10-17.14.41:475][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.14.44:782][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.14.44:865][265]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-17.14.44:882][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.14.44:882][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-17.14.44:882][265]PIE: New page: PIE session: GameMap (10 Apr 2019 19:14:44)
+[2019.04.10-17.14.44:882][265]LogPlayLevel: Creating play world package: /Game/ThievesContent/Maps/UEDPIE_0_GameMap
+[2019.04.10-17.14.44:896][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014037s)
+[2019.04.10-17.14.44:897][265]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.14.44:897][265]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2019.04.10-17.14.44:897][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThievesContent/Maps/GameMap.GameMap to /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap (0.015173s)
+[2019.04.10-17.14.44:964][265]LogInit: XAudio2 using 'Speakers (4- M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-17.14.44:972][265]LogInit: FAudioDevice initialized.
+[2019.04.10-17.14.45:005][265]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.10-17.14.45:007][265]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.14.45
+[2019.04.10-17.14.45:007][265]LogWorld: Bringing up level for play took: 0.001511
+[2019.04.10-17.14.45:065][265]LogScript: Warning: Accessed None trying to read property GameUIvar
+	GameMap_C /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.GameMap_C_1
+	Function /Game/ThievesContent/Maps/GameMap.GameMap_C:ExecuteUbergraph_GameMap:00E1
+[2019.04.10-17.14.45:065][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameUIvar". Blueprint:  GameMap Function:  Execute Ubergraph Game Map Graph:  EventGraph Node:  Set Visibility
+[2019.04.10-17.14.45:065][265]LogScript: Warning: Accessed None
+	GameMap_C /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.GameMap_C_1
+	Function /Game/ThievesContent/Maps/GameMap.GameMap_C:ExecuteUbergraph_GameMap:00F6
+[2019.04.10-17.14.45:066][265]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameMap Function:  Execute Ubergraph Game Map Graph:  EventGraph Node:  Set Visibility
+[2019.04.10-17.14.45:073][265]PIE: Play in editor start time for /Game/ThievesContent/Maps/UEDPIE_0_GameMap 0.756
+[2019.04.10-17.14.45:073][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.14.48:078][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.14.48:078][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.14.48:112][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-17.14.48:112][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.14.48:136][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.14.48:233][445]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.04.10-17.14.52:528][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.15.04:997][418]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-17.15.05:002][418]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-17.15.06:597][514]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.04.10-17.15.08:375][619]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.04.10-17.15.08:717][638]Cmd: DELETE
+[2019.04.10-17.15.08:717][638]Cmd: ACTOR DELETE
+[2019.04.10-17.15.08:720][638]LogEditorActor: Deleted Actor: PlayerStart
+[2019.04.10-17.15.08:748][638]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.04.10-17.15.09:528][685]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.04.10-17.15.10:518][724]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.15.11:089][758]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.15.12:834][862]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.15.13:544][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.10-17.15.14:848][962]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart2)
+[2019.04.10-17.15.15:513][999]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.15.16:353][ 49]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.15.16:913][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.15.16:980][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-17.15.16:996][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.15.16:996][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-17.15.16:996][ 86]PIE: New page: PIE session: GameMap (10 Apr 2019 19:15:16)
+[2019.04.10-17.15.16:996][ 86]LogPlayLevel: Creating play world package: /Game/ThievesContent/Maps/UEDPIE_0_GameMap
+[2019.04.10-17.15.17:009][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012414s)
+[2019.04.10-17.15.17:010][ 86]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.15.17:010][ 86]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2019.04.10-17.15.17:010][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThievesContent/Maps/GameMap.GameMap to /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap (0.013573s)
+[2019.04.10-17.15.17:076][ 86]LogInit: XAudio2 using 'Speakers (4- M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-17.15.17:084][ 86]LogInit: FAudioDevice initialized.
+[2019.04.10-17.15.17:114][ 86]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.10-17.15.17:116][ 86]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.15.17
+[2019.04.10-17.15.17:117][ 86]LogWorld: Bringing up level for play took: 0.001747
+[2019.04.10-17.15.17:131][ 86]LogScript: Warning: Accessed None trying to read property GameUIvar
+	GameMap_C /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.GameMap_C_1
+	Function /Game/ThievesContent/Maps/GameMap.GameMap_C:ExecuteUbergraph_GameMap:00E1
+[2019.04.10-17.15.17:131][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameUIvar". Blueprint:  GameMap Function:  Execute Ubergraph Game Map Graph:  EventGraph Node:  Set Visibility
+[2019.04.10-17.15.17:131][ 86]LogScript: Warning: Accessed None
+	GameMap_C /Game/ThievesContent/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.GameMap_C_1
+	Function /Game/ThievesContent/Maps/GameMap.GameMap_C:ExecuteUbergraph_GameMap:00F6
+[2019.04.10-17.15.17:131][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameMap Function:  Execute Ubergraph Game Map Graph:  EventGraph Node:  Set Visibility
+[2019.04.10-17.15.17:132][ 86]PIE: Play in editor start time for /Game/ThievesContent/Maps/UEDPIE_0_GameMap 0.815
+[2019.04.10-17.15.17:132][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.15.19:021][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.15.19:022][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.19:065][198]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-17.15.19:065][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.15.19:111][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.19:153][199]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.04.10-17.15.20:096][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.15.22:975][428]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-17.15.22:990][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.15.22:990][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-17.15.22:996][428]PIE: New page: PIE session: GameMap (10 Apr 2019 19:15:22)
+[2019.04.10-17.15.22:996][428]LogPlayLevel: Creating play world package: /Game/ThievesContent/Maps/UEDPIE_1_GameMap
+[2019.04.10-17.15.23:010][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013892s)
+[2019.04.10-17.15.23:011][428]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.15.23:012][428]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2019.04.10-17.15.23:012][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThievesContent/Maps/GameMap.GameMap to /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap (0.015264s)
+[2019.04.10-17.15.23:082][428]LogInit: XAudio2 using 'Speakers (4- M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-17.15.23:089][428]LogInit: FAudioDevice initialized.
+[2019.04.10-17.15.23:117][428]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.10-17.15.23:120][428]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.15.23
+[2019.04.10-17.15.23:120][428]LogWorld: Bringing up level for play took: 0.001416
+[2019.04.10-17.15.23:134][428]LogScript: Warning: Accessed None trying to read property GameUIvar
+	GameMap_C /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap:PersistentLevel.GameMap_C_1
+	Function /Game/ThievesContent/Maps/GameMap.GameMap_C:ExecuteUbergraph_GameMap:00E1
+[2019.04.10-17.15.23:134][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameUIvar". Blueprint:  GameMap Function:  Execute Ubergraph Game Map Graph:  EventGraph Node:  Set Visibility
+[2019.04.10-17.15.23:134][428]LogScript: Warning: Accessed None
+	GameMap_C /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap:PersistentLevel.GameMap_C_1
+	Function /Game/ThievesContent/Maps/GameMap.GameMap_C:ExecuteUbergraph_GameMap:00F6
+[2019.04.10-17.15.23:134][428]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  GameMap Function:  Execute Ubergraph Game Map Graph:  EventGraph Node:  Set Visibility
+[2019.04.10-17.15.23:401][428]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.15.23:407][428]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.04.10-17.15.23:407][428]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.15.23:408][428]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.04.10-17.15.23:408][428]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.04.10-17.15.23:408][428]LogInit: WinSock: I am MSI (192.168.0.34:0)
+[2019.04.10-17.15.23:409][428]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.15.23:409][428]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2019.04.10-17.15.23:410][428]PIE: Play in editor start time for /Game/ThievesContent/Maps/UEDPIE_1_GameMap 1.092
+[2019.04.10-17.15.23:418][428]PIE: New page: PIE session: GameMap (10 Apr 2019 19:15:23)
+[2019.04.10-17.15.23:431][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.15.23:438][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.23:488][428]LogNet: Browse: 127.0.0.1:17777//Game/ThievesContent/Maps/GameMap
+[2019.04.10-17.15.23:488][428]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.15.23:488][428]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2019.04.10-17.15.23:488][428]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.04.10-17.15.23:488][428]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.04.10-17.15.23:489][428]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.15.23:497][428]LogNet: Game client on port 17777, rate 10000
+[2019.04.10-17.15.23:500][428]PIE: Play in editor start time for /Game/ThievesContent/Maps/GameMap 1.183
+[2019.04.10-17.15.23:506][428]PIE: New page: PIE session: GameMap (10 Apr 2019 19:15:23)
+[2019.04.10-17.15.23:516][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.15.23:521][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.23:565][428]LogNet: Browse: 127.0.0.1:17777//Game/ThievesContent/Maps/GameMap
+[2019.04.10-17.15.23:565][428]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.15.23:565][428]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2019.04.10-17.15.23:565][428]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.04.10-17.15.23:565][428]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.04.10-17.15.23:566][428]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.15.23:566][428]LogNet: Game client on port 17777, rate 10000
+[2019.04.10-17.15.23:569][428]PIE: Play in editor start time for /Game/ThievesContent/Maps/GameMap 1.252
+[2019.04.10-17.15.23:574][428]PIE: New page: PIE session: GameMap (10 Apr 2019 19:15:23)
+[2019.04.10-17.15.23:586][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.15.23:590][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.23:635][428]LogNet: Browse: 127.0.0.1:17777//Game/ThievesContent/Maps/GameMap
+[2019.04.10-17.15.23:636][428]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.15.23:636][428]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2019.04.10-17.15.23:636][428]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.04.10-17.15.23:636][428]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.04.10-17.15.23:636][428]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.15.23:636][428]LogNet: Game client on port 17777, rate 10000
+[2019.04.10-17.15.23:639][428]PIE: Play in editor start time for /Game/ThievesContent/Maps/GameMap 1.322
+[2019.04.10-17.15.23:649][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.15.23:661][428]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54733
+[2019.04.10-17.15.23:661][428]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 202008017078220059197018054015057184164216180139161061112157
+[2019.04.10-17.15.23:661][428]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54734
+[2019.04.10-17.15.23:661][428]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 047208218030025126234055014095042104153212107219065244110124
+[2019.04.10-17.15.23:661][428]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54735
+[2019.04.10-17.15.23:661][428]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 108121208033017111032125022159179110181003004166228090022188
+[2019.04.10-17.15.23:665][428]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 202008017078220059197018054015057184164216180139161061112157
+[2019.04.10-17.15.23:666][428]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 047208218030025126234055014095042104153212107219065244110124
+[2019.04.10-17.15.23:667][428]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 108121208033017111032125022159179110181003004166228090022188
+[2019.04.10-17.15.23:781][429]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54733
+[2019.04.10-17.15.23:781][429]LogHandshake: SendChallengeAck. InCookie: 202008017078220059197018054015057184164216180139161061112157
+[2019.04.10-17.15.23:781][429]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54733
+[2019.04.10-17.15.23:781][429]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.15.23:781][429]LogNet: NotifyAcceptedConnection: Name: GameMap, TimeStamp: 04/10/19 18:15:23, [UNetConnection] RemoteAddr: 127.0.0.1:54733, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.15.23:781][429]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54733, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.15.23:781][429]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54734
+[2019.04.10-17.15.23:781][429]LogHandshake: SendChallengeAck. InCookie: 047208218030025126234055014095042104153212107219065244110124
+[2019.04.10-17.15.23:781][429]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54734
+[2019.04.10-17.15.23:781][429]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.15.23:782][429]LogNet: NotifyAcceptedConnection: Name: GameMap, TimeStamp: 04/10/19 18:15:23, [UNetConnection] RemoteAddr: 127.0.0.1:54734, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.15.23:782][429]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54734, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.15.23:782][429]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54735
+[2019.04.10-17.15.23:782][429]LogHandshake: SendChallengeAck. InCookie: 108121208033017111032125022159179110181003004166228090022188
+[2019.04.10-17.15.23:782][429]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54735
+[2019.04.10-17.15.23:782][429]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.15.23:782][429]LogNet: NotifyAcceptedConnection: Name: GameMap, TimeStamp: 04/10/19 18:15:23, [UNetConnection] RemoteAddr: 127.0.0.1:54735, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.15.23:782][429]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54735, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.15.23:783][429]LogNetVersion: Thieves 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2011042874)
+[2019.04.10-17.15.23:783][429]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.15.23:784][429]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.15.23:784][429]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.15.23:796][430]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap: Accepted
+[2019.04.10-17.15.23:807][430]LogNet: Remote platform little endian=1
+[2019.04.10-17.15.23:807][430]LogNet: This platform little endian=1
+[2019.04.10-17.15.23:807][430]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap: Accepted
+[2019.04.10-17.15.23:807][430]LogNet: Remote platform little endian=1
+[2019.04.10-17.15.23:807][430]LogNet: This platform little endian=1
+[2019.04.10-17.15.23:807][430]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap: Accepted
+[2019.04.10-17.15.23:807][430]LogNet: Remote platform little endian=1
+[2019.04.10-17.15.23:807][430]LogNet: This platform little endian=1
+[2019.04.10-17.15.23:852][431]LogNet: Login request: /Game/ThievesContent/Maps/GameMap?Name=MSI-5A9F9C094E93C31269F393B6BB4D6980 userId: MSI-5A9F9C094E93C31269F393B6BB4D6980
+[2019.04.10-17.15.23:852][431]LogNet: Login request: /Game/ThievesContent/Maps/GameMap?Name=MSI-006A03D74143956E96FAD6A991A21647 userId: MSI-006A03D74143956E96FAD6A991A21647
+[2019.04.10-17.15.23:852][431]LogNet: Login request: /Game/ThievesContent/Maps/GameMap?Name=MSI-E83F1A49489AA27340A6FB97E9B32D5A userId: MSI-E83F1A49489AA27340A6FB97E9B32D5A
+[2019.04.10-17.15.23:853][431]LogNet: Welcomed by server (Level: /Game/ThievesContent/Maps/UEDPIE_1_GameMap, Game: /Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2019.04.10-17.15.23:853][431]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThievesContent/Maps/UEDPIE_1_GameMap?game=/Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2019.04.10-17.15.23:923][431]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.15.23:923][431]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.15.23:927][431]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_2_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.15.23
+[2019.04.10-17.15.23:927][431]LogWorld: Bringing up level for play took: 0.003223
+[2019.04.10-17.15.23:928][431]LogLoad: Took 0.074092 seconds to LoadMap(/Game/ThievesContent/Maps/UEDPIE_1_GameMap)
+[2019.04.10-17.15.23:928][431]LogNet: Welcomed by server (Level: /Game/ThievesContent/Maps/UEDPIE_1_GameMap, Game: /Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2019.04.10-17.15.23:940][431]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThievesContent/Maps/UEDPIE_1_GameMap?game=/Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2019.04.10-17.15.23:978][431]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.15.23:978][431]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.15.23:980][431]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_3_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.15.23
+[2019.04.10-17.15.23:980][431]LogWorld: Bringing up level for play took: 0.001308
+[2019.04.10-17.15.23:980][431]LogLoad: Took 0.040627 seconds to LoadMap(/Game/ThievesContent/Maps/UEDPIE_1_GameMap)
+[2019.04.10-17.15.23:981][431]LogNet: Welcomed by server (Level: /Game/ThievesContent/Maps/UEDPIE_1_GameMap, Game: /Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2019.04.10-17.15.23:995][431]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThievesContent/Maps/UEDPIE_1_GameMap?game=/Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2019.04.10-17.15.24:038][431]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.15.24:039][431]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.15.24:040][431]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_4_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.15.24
+[2019.04.10-17.15.24:041][431]LogWorld: Bringing up level for play took: 0.001291
+[2019.04.10-17.15.24:041][431]LogLoad: Took 0.045657 seconds to LoadMap(/Game/ThievesContent/Maps/UEDPIE_1_GameMap)
+[2019.04.10-17.15.24:053][432]LogNet: Client netspeed is 10000
+[2019.04.10-17.15.24:053][432]LogNet: Join request: /Game/ThievesContent/Maps/GameMap?Name=MSI-5A9F9C094E93C31269F393B6BB4D6980?SplitscreenCount=1
+[2019.04.10-17.15.24:054][432]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:057][432]LogNet: Join succeeded: MSI-5A9F9C094E93C312
+[2019.04.10-17.15.24:057][432]LogNet: Client netspeed is 10000
+[2019.04.10-17.15.24:057][432]LogNet: Join request: /Game/ThievesContent/Maps/GameMap?Name=MSI-006A03D74143956E96FAD6A991A21647?SplitscreenCount=1
+[2019.04.10-17.15.24:058][432]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:066][432]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.04.10-17.15.24:066][432]LogNet: Join succeeded: MSI-006A03D74143956E
+[2019.04.10-17.15.24:066][432]LogNet: Client netspeed is 10000
+[2019.04.10-17.15.24:066][432]LogNet: Join request: /Game/ThievesContent/Maps/GameMap?Name=MSI-E83F1A49489AA27340A6FB97E9B32D5A?SplitscreenCount=1
+[2019.04.10-17.15.24:066][432]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:068][432]LogNet: Join succeeded: MSI-E83F1A49489AA273
+[2019.04.10-17.15.24:123][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:123][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:123][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:123][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:135][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:135][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:136][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:137][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:144][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:145][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:145][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.24:145][433]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.15.25:040][477]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-43.41 Y=0.00 Z=0.00 Location: X=-970.00 Y=515.64 Z=228.54 Normal: X=-0.97 Y=-0.26 Z=-0.00 PenetrationDepth:9.648 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_2 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.04.10-17.15.25:042][477]LogCharacterMovement: ThirdPersonCharacter_C_2 is stuck and failed to move! Velocity: X=-43.00 Y=0.00 Z=0.00 Location: X=-970.00 Y=515.64 Z=228.54 Normal: X=-1.00 Y=0.06 Z=-0.00 PenetrationDepth:8.394 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_3 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.04.10-17.15.25:043][477]LogCharacterMovement: ThirdPersonCharacter_C_2 is stuck and failed to move! Velocity: X=-43.00 Y=0.00 Z=0.00 Location: X=-970.00 Y=515.64 Z=228.54 Normal: X=-1.00 Y=0.06 Z=-0.00 PenetrationDepth:8.362 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_0 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.04.10-17.15.25:045][477]LogCharacterMovement: ThirdPersonCharacter_C_2 is stuck and failed to move! Velocity: X=-43.00 Y=0.00 Z=0.00 Location: X=-970.00 Y=515.64 Z=228.54 Normal: X=-1.00 Y=0.06 Z=-0.00 PenetrationDepth:8.394 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_3 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.04.10-17.15.26:052][526]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=599.65 Y=-20.54 Z=0.00 Location: X=-970.00 Y=515.64 Z=228.54 Normal: X=-0.52 Y=0.86 Z=-0.00 PenetrationDepth:34.991 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_2 Component:StaticMesh BoneName:None (46 other events since notify)
+[2019.04.10-17.15.26:053][526]LogCharacterMovement: ThirdPersonCharacter_C_2 is stuck and failed to move! Velocity: X=599.00 Y=-26.00 Z=0.00 Location: X=-970.00 Y=515.64 Z=228.54 Normal: X=-1.00 Y=0.03 Z=0.00 PenetrationDepth:39.846 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_3 Component:StaticMesh BoneName:None (41 other events since notify)
+[2019.04.10-17.15.26:055][526]LogCharacterMovement: ThirdPersonCharacter_C_2 is stuck and failed to move! Velocity: X=599.00 Y=-26.00 Z=0.00 Location: X=-970.00 Y=515.64 Z=228.54 Normal: X=-1.00 Y=0.03 Z=0.00 PenetrationDepth:39.815 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_0 Component:StaticMesh BoneName:None (43 other events since notify)
+[2019.04.10-17.15.26:056][526]LogCharacterMovement: ThirdPersonCharacter_C_2 is stuck and failed to move! Velocity: X=599.00 Y=-26.00 Z=0.00 Location: X=-970.00 Y=515.64 Z=228.54 Normal: X=-1.00 Y=0.03 Z=0.00 PenetrationDepth:39.846 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_3 Component:StaticMesh BoneName:None (41 other events since notify)
+[2019.04.10-17.15.28:220][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.15.28:220][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.28:239][631]LogSlate: Window 'Thieves Game Preview Client 3 (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-17.15.28:273][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.28:286][631]LogSlate: Window 'Thieves Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-17.15.28:318][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.28:331][631]LogSlate: Window 'Thieves Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-17.15.28:366][631]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.04.10-17.15.28:366][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.28:398][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-17.15.28:399][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.15.28:695][631]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54735, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-E83F1A49489AA27340A6FB97E9B32D5A
+[2019.04.10-17.15.28:695][631]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54735, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-E83F1A49489AA27340A6FB97E9B32D5A, Channels: 2, Time: 2019.04.10-17.15.28
+[2019.04.10-17.15.28:695][631]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54735, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-E83F1A49489AA27340A6FB97E9B32D5A
+[2019.04.10-17.15.28:695][631]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54734, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-006A03D74143956E96FAD6A991A21647
+[2019.04.10-17.15.28:696][631]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54734, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-006A03D74143956E96FAD6A991A21647, Channels: 2, Time: 2019.04.10-17.15.28
+[2019.04.10-17.15.28:696][631]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54734, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-006A03D74143956E96FAD6A991A21647
+[2019.04.10-17.15.28:696][631]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54733, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-5A9F9C094E93C31269F393B6BB4D6980
+[2019.04.10-17.15.28:696][631]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54733, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-5A9F9C094E93C31269F393B6BB4D6980, Channels: 2, Time: 2019.04.10-17.15.28
+[2019.04.10-17.15.28:696][631]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54733, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-5A9F9C094E93C31269F393B6BB4D6980
+[2019.04.10-17.15.28:696][631]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-E83F1A49489AA27340A6FB97E9B32D5A
+[2019.04.10-17.15.28:696][631]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-E83F1A49489AA27340A6FB97E9B32D5A, Channels: 2, Time: 2019.04.10-17.15.28
+[2019.04.10-17.15.28:697][631]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-E83F1A49489AA27340A6FB97E9B32D5A
+[2019.04.10-17.15.28:697][631]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-006A03D74143956E96FAD6A991A21647
+[2019.04.10-17.15.28:697][631]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-006A03D74143956E96FAD6A991A21647, Channels: 2, Time: 2019.04.10-17.15.28
+[2019.04.10-17.15.28:697][631]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-006A03D74143956E96FAD6A991A21647
+[2019.04.10-17.15.28:697][631]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-5A9F9C094E93C31269F393B6BB4D6980
+[2019.04.10-17.15.28:697][631]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-5A9F9C094E93C31269F393B6BB4D6980, Channels: 2, Time: 2019.04.10-17.15.28
+[2019.04.10-17.15.28:698][631]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-5A9F9C094E93C31269F393B6BB4D6980
+[2019.04.10-17.15.28:702][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.15.28:704][631]LogExit: GameNetDriver None shut down
+[2019.04.10-17.15.28:705][631]LogExit: GameNetDriver None shut down
+[2019.04.10-17.15.28:706][631]LogExit: GameNetDriver None shut down
+[2019.04.10-17.15.28:706][631]LogExit: GameNetDriver None shut down
+[2019.04.10-17.15.28:746][632]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.10-17.15.28:746][632]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.10-17.15.28:746][632]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.04.10-17.15.28:746][632]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.04.10-17.15.40:633][344]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart2)
+[2019.04.10-17.15.40:974][363]Cmd: DELETE
+[2019.04.10-17.15.40:974][363]Cmd: ACTOR DELETE
+[2019.04.10-17.15.40:976][363]LogEditorActor: Deleted Actor: PlayerStart
+[2019.04.10-17.15.41:001][363]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.04.10-17.15.41:796][411]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart3)
+[2019.04.10-17.15.42:183][433]Cmd: DELETE
+[2019.04.10-17.15.42:183][433]Cmd: ACTOR DELETE
+[2019.04.10-17.15.42:186][433]LogEditorActor: Deleted Actor: PlayerStart
+[2019.04.10-17.15.42:210][433]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.04.10-17.15.42:972][479]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.04.10-17.15.50:114][890]LogSlate: Took 0.269255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.10-17.15.50:406][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.15.56:282][260]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.15.57:188][314]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.15.59:247][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.16.06:762][884]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.04.10-17.16.07:017][899]Cmd: DELETE
+[2019.04.10-17.16.07:017][899]Cmd: ACTOR DELETE
+[2019.04.10-17.16.07:019][899]LogEditorActor: Deleted Actor: PlayerStart
+[2019.04.10-17.16.07:042][899]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.04.10-17.16.07:939][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.16.10:104][ 81]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.16.11:330][154]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.10-17.16.12:070][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.16.14:071][316]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-17.16.14:088][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.16.14:088][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-17.16.14:095][316]PIE: New page: PIE session: GameMap (10 Apr 2019 19:16:14)
+[2019.04.10-17.16.14:095][316]LogPlayLevel: Creating play world package: /Game/ThievesContent/Maps/UEDPIE_1_GameMap
+[2019.04.10-17.16.14:108][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012563s)
+[2019.04.10-17.16.14:108][316]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.16.14:108][316]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2019.04.10-17.16.14:109][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThievesContent/Maps/GameMap.GameMap to /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap (0.013487s)
+[2019.04.10-17.16.14:177][316]LogInit: XAudio2 using 'Speakers (4- M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-17.16.14:186][316]LogInit: FAudioDevice initialized.
+[2019.04.10-17.16.14:218][316]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.10-17.16.14:220][316]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.16.14
+[2019.04.10-17.16.14:220][316]LogWorld: Bringing up level for play took: 0.001393
+[2019.04.10-17.16.14:234][316]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.16.14:234][316]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2019.04.10-17.16.14:234][316]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.16.14:234][316]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.04.10-17.16.14:234][316]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.04.10-17.16.14:234][316]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.16.14:234][316]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2019.04.10-17.16.14:235][316]PIE: Play in editor start time for /Game/ThievesContent/Maps/UEDPIE_1_GameMap -0.082
+[2019.04.10-17.16.14:241][316]PIE: New page: PIE session: GameMap (10 Apr 2019 19:16:14)
+[2019.04.10-17.16.14:251][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.16.14:255][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.16.14:304][316]LogNet: Browse: 127.0.0.1:17777//Game/ThievesContent/Maps/GameMap
+[2019.04.10-17.16.14:304][316]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.16.14:304][316]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2019.04.10-17.16.14:304][316]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.04.10-17.16.14:304][316]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.04.10-17.16.14:305][316]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.16.14:305][316]LogNet: Game client on port 17777, rate 10000
+[2019.04.10-17.16.14:308][316]PIE: Play in editor start time for /Game/ThievesContent/Maps/GameMap -0.009
+[2019.04.10-17.16.14:320][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.16.14:321][316]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62403
+[2019.04.10-17.16.14:321][316]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 229242134141190157029060162149093196122159046234146220013031
+[2019.04.10-17.16.14:322][316]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 229242134141190157029060162149093196122159046234146220013031
+[2019.04.10-17.16.14:380][317]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62403
+[2019.04.10-17.16.14:380][317]LogHandshake: SendChallengeAck. InCookie: 229242134141190157029060162149093196122159046234146220013031
+[2019.04.10-17.16.14:380][317]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62403
+[2019.04.10-17.16.14:380][317]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.16.14:381][317]LogNet: NotifyAcceptedConnection: Name: GameMap, TimeStamp: 04/10/19 18:16:14, [UNetConnection] RemoteAddr: 127.0.0.1:62403, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.16.14:381][317]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62403, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.16.14:382][317]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.16.14:394][318]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap: Accepted
+[2019.04.10-17.16.14:395][318]LogNet: Remote platform little endian=1
+[2019.04.10-17.16.14:395][318]LogNet: This platform little endian=1
+[2019.04.10-17.16.14:414][319]LogNet: Login request: /Game/ThievesContent/Maps/GameMap?Name=MSI-18DFF34C46BEC2DA8A93628980DF8FF2 userId: MSI-18DFF34C46BEC2DA8A93628980DF8FF2
+[2019.04.10-17.16.14:414][319]LogNet: Welcomed by server (Level: /Game/ThievesContent/Maps/UEDPIE_1_GameMap, Game: /Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2019.04.10-17.16.14:415][319]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThievesContent/Maps/UEDPIE_1_GameMap?game=/Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2019.04.10-17.16.14:458][319]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.16.14:459][319]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.16.14:462][319]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_2_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.16.14
+[2019.04.10-17.16.14:463][319]LogWorld: Bringing up level for play took: 0.003094
+[2019.04.10-17.16.14:463][319]LogLoad: Took 0.048688 seconds to LoadMap(/Game/ThievesContent/Maps/UEDPIE_1_GameMap)
+[2019.04.10-17.16.14:478][320]LogNet: Client netspeed is 10000
+[2019.04.10-17.16.14:478][320]LogNet: Join request: /Game/ThievesContent/Maps/GameMap?Name=MSI-18DFF34C46BEC2DA8A93628980DF8FF2?SplitscreenCount=1
+[2019.04.10-17.16.14:479][320]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.16.14:482][320]LogNet: Join succeeded: MSI-18DFF34C46BEC2DA
+[2019.04.10-17.16.14:546][324]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.16.14:563][325]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.16.17:147][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.16.17:147][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.16.17:165][480]LogSlate: Window 'Thieves Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-17.16.17:193][480]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.04.10-17.16.17:194][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.16.17:228][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-17.16.17:228][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.16.17:251][480]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62403, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-18DFF34C46BEC2DA8A93628980DF8FF2
+[2019.04.10-17.16.17:251][480]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62403, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-18DFF34C46BEC2DA8A93628980DF8FF2, Channels: 2, Time: 2019.04.10-17.16.17
+[2019.04.10-17.16.17:252][480]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62403, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-18DFF34C46BEC2DA8A93628980DF8FF2
+[2019.04.10-17.16.17:252][480]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-18DFF34C46BEC2DA8A93628980DF8FF2
+[2019.04.10-17.16.17:252][480]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-18DFF34C46BEC2DA8A93628980DF8FF2, Channels: 2, Time: 2019.04.10-17.16.17
+[2019.04.10-17.16.17:252][480]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-18DFF34C46BEC2DA8A93628980DF8FF2
+[2019.04.10-17.16.17:254][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.16.17:254][480]LogExit: GameNetDriver None shut down
+[2019.04.10-17.16.17:254][480]LogExit: GameNetDriver None shut down
+[2019.04.10-17.16.17:273][481]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.10-17.16.17:273][481]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.10-17.16.46:087][843]LogSavePackage: Moving 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Saved/GameMap_Auto149DB793E404E5F8CC6690BA00570F818.tmp' to 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Saved/Autosaves/Game/ThievesContent/Maps/GameMap_Auto1.umap'
+[2019.04.10-17.16.46:091][843]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThievesContent/Maps/GameMap' took 0.216
+[2019.04.10-17.16.46:091][843]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
+[2019.04.10-17.19.02:011][351]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2019.04.10-17.19.02:011][351]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2019.04.10-17.19.08:510][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.19.08:593][422]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-17.19.08:614][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.19.08:614][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-17.19.08:620][422]PIE: New page: PIE session: GameMap (10 Apr 2019 19:19:08)
+[2019.04.10-17.19.08:620][422]LogPlayLevel: Creating play world package: /Game/ThievesContent/Maps/UEDPIE_1_GameMap
+[2019.04.10-17.19.08:634][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014548s)
+[2019.04.10-17.19.08:635][422]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.19.08:635][422]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2019.04.10-17.19.08:635][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThievesContent/Maps/GameMap.GameMap to /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap (0.015653s)
+[2019.04.10-17.19.08:702][422]LogInit: XAudio2 using 'Speakers (4- M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-17.19.08:709][422]LogInit: FAudioDevice initialized.
+[2019.04.10-17.19.08:742][422]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.10-17.19.08:744][422]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.19.08
+[2019.04.10-17.19.08:745][422]LogWorld: Bringing up level for play took: 0.001687
+[2019.04.10-17.19.08:759][422]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.19.08:759][422]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2019.04.10-17.19.08:759][422]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.19.08:759][422]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.04.10-17.19.08:759][422]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.04.10-17.19.08:759][422]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.19.08:760][422]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2019.04.10-17.19.08:760][422]PIE: Play in editor start time for /Game/ThievesContent/Maps/UEDPIE_1_GameMap 0.443
+[2019.04.10-17.19.08:768][422]PIE: New page: PIE session: GameMap (10 Apr 2019 19:19:08)
+[2019.04.10-17.19.08:779][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-17.19.08:784][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.19.08:832][422]LogNet: Browse: 127.0.0.1:17777//Game/ThievesContent/Maps/GameMap
+[2019.04.10-17.19.08:832][422]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.19.08:832][422]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2019.04.10-17.19.08:832][422]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.04.10-17.19.08:832][422]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.04.10-17.19.08:833][422]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.19.08:833][422]LogNet: Game client on port 17777, rate 10000
+[2019.04.10-17.19.08:835][422]PIE: Play in editor start time for /Game/ThievesContent/Maps/GameMap 0.519
+[2019.04.10-17.19.08:849][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.19.08:849][422]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55039
+[2019.04.10-17.19.08:849][422]LogHandshake: SendConnectChallenge. Timestamp: 0.016668, Cookie: 216212041100082011099223226249206210211156196191141016126010
+[2019.04.10-17.19.08:851][422]LogHandshake: SendChallengeResponse. Timestamp: 0.016668, Cookie: 216212041100082011099223226249206210211156196191141016126010
+[2019.04.10-17.19.08:904][423]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55039
+[2019.04.10-17.19.08:904][423]LogHandshake: SendChallengeAck. InCookie: 216212041100082011099223226249206210211156196191141016126010
+[2019.04.10-17.19.08:904][423]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55039
+[2019.04.10-17.19.08:904][423]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.04.10-17.19.08:905][423]LogNet: NotifyAcceptedConnection: Name: GameMap, TimeStamp: 04/10/19 18:19:08, [UNetConnection] RemoteAddr: 127.0.0.1:55039, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.19.08:905][423]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55039, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.19.08:905][423]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.04.10-17.19.08:920][424]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThievesContent/Maps/UEDPIE_1_GameMap.GameMap: Accepted
+[2019.04.10-17.19.08:920][424]LogNet: Remote platform little endian=1
+[2019.04.10-17.19.08:920][424]LogNet: This platform little endian=1
+[2019.04.10-17.19.08:939][425]LogNet: Login request: /Game/ThievesContent/Maps/GameMap?Name=MSI-665B946F4AD72D821C9058A8782BBD8C userId: MSI-665B946F4AD72D821C9058A8782BBD8C
+[2019.04.10-17.19.08:940][425]LogNet: Welcomed by server (Level: /Game/ThievesContent/Maps/UEDPIE_1_GameMap, Game: /Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2019.04.10-17.19.08:940][425]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThievesContent/Maps/UEDPIE_1_GameMap?game=/Game/ThievesContent/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2019.04.10-17.19.08:977][425]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-17.19.08:977][425]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.04.10-17.19.08:980][425]LogWorld: Bringing World /Game/ThievesContent/Maps/UEDPIE_2_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-18.19.08
+[2019.04.10-17.19.08:980][425]LogWorld: Bringing up level for play took: 0.001514
+[2019.04.10-17.19.08:980][425]LogLoad: Took 0.039638 seconds to LoadMap(/Game/ThievesContent/Maps/UEDPIE_1_GameMap)
+[2019.04.10-17.19.08:992][426]LogNet: Client netspeed is 10000
+[2019.04.10-17.19.08:993][426]LogNet: Join request: /Game/ThievesContent/Maps/GameMap?Name=MSI-665B946F4AD72D821C9058A8782BBD8C?SplitscreenCount=1
+[2019.04.10-17.19.08:993][426]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.19.08:997][426]LogNet: Join succeeded: MSI-665B946F4AD72D82
+[2019.04.10-17.19.09:077][431]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.19.09:093][432]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2019.04.10-17.19.33:779][913]LogCharacterMovement: ThirdPersonCharacter_C_1 is stuck and failed to move! Velocity: X=22.89 Y=25.33 Z=0.00 Location: X=-1201.01 Y=-354.44 Z=228.41 Normal: X=-0.29 Y=0.96 Z=0.00 PenetrationDepth:13.336 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_0 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.04.10-17.19.33:947][923]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=304.94 Y=6.29 Z=0.00 Location: X=-1200.70 Y=-354.33 Z=228.41 Normal: X=0.15 Y=0.99 Z=0.00 PenetrationDepth:2.437 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_1 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.04.10-17.20.00:399][509]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-47.61 Y=-128.00 Z=0.00 Location: X=-1138.12 Y=-320.70 Z=228.41 Normal: X=-0.33 Y=0.94 Z=0.00 PenetrationDepth:10.031 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_1 Component:StaticMesh BoneName:None (28 other events since notify)
+[2019.04.10-17.20.03:699][707]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=97.80 Y=29.75 Z=0.00 Location: X=-1197.39 Y=-393.51 Z=228.41 Normal: X=-0.62 Y=0.79 Z=0.00 PenetrationDepth:20.545 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_1 Component:StaticMesh BoneName:None (3 other events since notify)
+[2019.04.10-17.20.04:364][747]LogCharacterMovement: ThirdPersonCharacter_C_1 is stuck and failed to move! Velocity: X=65.44 Y=19.44 Z=0.00 Location: X=-1192.14 Y=-391.70 Z=228.41 Normal: X=-0.96 Y=-0.26 Z=0.00 PenetrationDepth:11.146 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_0 Component:StaticMesh BoneName:None (35 other events since notify)
+[2019.04.10-17.20.16:450][472]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=-86.39 Z=0.00 Location: X=-1346.19 Y=-229.94 Z=228.40 Normal: X=0.35 Y=-0.94 Z=-0.00 PenetrationDepth:29.953 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_1 Component:StaticMesh BoneName:None (24 other events since notify)
+[2019.04.10-17.20.16:466][473]LogCharacterMovement: ThirdPersonCharacter_C_1 is stuck and failed to move! Velocity: X=0.00 Y=-7.00 Z=0.00 Location: X=-1282.68 Y=-276.02 Z=228.41 Normal: X=-1.00 Y=-0.04 Z=-0.00 PenetrationDepth:11.880 Actor:ChildActor_GEN_VARIABLE_KeyHeld_C_CAT_0 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.04.10-17.20.37:236][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.20.37:236][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.20.37:254][719]LogSlate: Window 'Thieves Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-17.20.37:287][719]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2019.04.10-17.20.37:287][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.20.37:321][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-17.20.37:321][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThievesContent/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-17.20.37:344][719]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55039, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-665B946F4AD72D821C9058A8782BBD8C
+[2019.04.10-17.20.37:344][719]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55039, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-665B946F4AD72D821C9058A8782BBD8C, Channels: 2, Time: 2019.04.10-17.20.37
+[2019.04.10-17.20.37:344][719]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55039, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:MSI-665B946F4AD72D821C9058A8782BBD8C
+[2019.04.10-17.20.37:344][719]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-665B946F4AD72D821C9058A8782BBD8C
+[2019.04.10-17.20.37:344][719]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-665B946F4AD72D821C9058A8782BBD8C, Channels: 2, Time: 2019.04.10-17.20.37
+[2019.04.10-17.20.37:344][719]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:MSI-665B946F4AD72D821C9058A8782BBD8C
+[2019.04.10-17.20.37:347][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-17.20.37:348][719]LogExit: GameNetDriver None shut down
+[2019.04.10-17.20.37:348][719]LogExit: GameNetDriver None shut down
+[2019.04.10-17.20.37:362][720]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.10-17.20.37:362][720]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.10-17.20.50:319][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.20.53:021][634]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThievesContent/Maps/GameMap.GameMap:PersistentLevel.GameMap
+[2019.04.10-17.20.54:162][634]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2019.04.10-17.20.55:514][634]LogSlate: Took 0.012264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.10-17.21.09:864][ 80]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThievesContent/GameContent/GameUI.GameUI
+[2019.04.10-17.21.26:606][464]LogEditorTransaction: Undo Move Widgets
+[2019.04.10-17.21.28:508][493]LogEditorTransaction: Undo Move Widgets
+[2019.04.10-17.21.31:119][540]LogEditorTransaction: Undo Move Widgets
+[2019.04.10-17.21.32:900][572]LogEditorTransaction: Undo Move Widgets
+[2019.04.10-17.21.34:458][598]LogEditorTransaction: Undo Move Widgets
+[2019.04.10-17.21.43:065][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2019.04.10-17.21.43:065][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_0.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_GameUI_C_1:WidgetTree.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_2.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_3.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_4.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_5.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_6.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_7.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_8.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_9.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_10.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_11.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:066][741]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_2) from referencer (Image /Engine/UMG/Editor/Transient.p1greengem).  Import failed...
+[2019.04.10-17.21.43:066][741]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_2"''
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_0.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_GameUI_C_1:WidgetTree.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_2.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_3.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_4.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_5.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_6.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_7.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_8.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_9.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_10.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_11.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:067][741]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Image /Engine/UMG/Editor/Transient.p1redgem).  Import failed...
+[2019.04.10-17.21.43:068][741]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_0.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_GameUI_C_1:WidgetTree.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_2.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_3.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_4.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_5.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_6.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_7.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_8.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_9.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:068][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_10.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_11.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3) from referencer (Image /Engine/UMG/Editor/Transient.p1purplegem).  Import failed...
+[2019.04.10-17.21.43:069][741]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_3"''
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_0.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_GameUI_C_1:WidgetTree.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_2.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_3.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_4.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_5.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_6.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_7.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:069][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_8.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:070][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_9.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:070][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_10.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:070][741]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_11.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.21.43:070][741]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1) from referencer (Image /Engine/UMG/Editor/Transient.p1bluegem).  Import failed...
+[2019.04.10-17.21.43:070][741]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2019.04.10-17.21.46:036][813]LogEditorTransaction: Undo Move Widget
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.WidgetTree:CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_0.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_SKEL_GameUI_C_1:WidgetTree.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_2.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_3.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_4.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_5.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_6.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_7.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_8.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_9.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_10.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_11.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_13.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_14.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:365][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_15.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:366][406]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_16.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.22.09:366][406]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_22).  Import failed...
+[2019.04.10-17.22.09:366][406]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_4"''
+[2019.04.10-17.23.26:789][209]BlueprintLog: New page: Compile GameUI
+[2019.04.10-17.23.27:662][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThievesContent/GameContent/GameUI" FILE="C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThievesContent/GameContent/GameUI.uasset" SILENT=true
+[2019.04.10-17.23.27:699][219]LogSavePackage: Moving 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Saved/GameUI89222CF34FCF8E47B0999D8E5109A9CF.tmp' to 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThievesContent/GameContent/GameUI.uasset'
+[2019.04.10-17.23.38:296][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:296][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:296][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_5) from referencer (Image /Engine/UMG/Editor/Transient.p2greengem).  Import failed...
+[2019.04.10-17.23.38:297][444]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_5"''
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:297][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_6) from referencer (Image /Engine/UMG/Editor/Transient.p2redgem).  Import failed...
+[2019.04.10-17.23.38:298][444]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_6"''
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:298][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7) from referencer (Image /Engine/UMG/Editor/Transient.p2purplegem).  Import failed...
+[2019.04.10-17.23.38:299][444]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_7"''
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_8) from referencer (Image /Engine/UMG/Editor/Transient.p2bluegem).  Import failed...
+[2019.04.10-17.23.38:299][444]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_8"''
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:299][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.23.38:300][444]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_9) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2019.04.10-17.23.38:300][444]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_9"''
+[2019.04.10-17.24.45:131][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:131][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_36.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:131][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_35.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:131][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_34.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:131][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_33.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:131][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_32.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:131][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_31.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_30.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_29.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_28.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_27.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:132][ 42]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_14) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_1).  Import failed...
+[2019.04.10-17.24.45:132][ 42]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_14"''
+[2019.04.10-17.24.45:132][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_36.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_35.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_34.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_33.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_32.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_31.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_30.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_29.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_28.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_27.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_13) from referencer (Image /Engine/UMG/Editor/Transient.p4bluegem).  Import failed...
+[2019.04.10-17.24.45:133][ 42]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_13"''
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_36.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_35.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_34.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_33.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_32.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_31.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_30.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:133][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_29.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_28.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_27.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_11) from referencer (Image /Engine/UMG/Editor/Transient.p4redgem).  Import failed...
+[2019.04.10-17.24.45:134][ 42]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_11"''
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_36.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_35.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_34.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_33.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_32.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_31.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_30.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_29.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_28.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_27.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:134][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_12) from referencer (Image /Engine/UMG/Editor/Transient.p4purplegem).  Import failed...
+[2019.04.10-17.24.45:135][ 42]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_12"''
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_36.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_35.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_34.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_33.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_32.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_31.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_30.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_12.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_29.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_28.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_27.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_26.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_17.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_18.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_19.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_20.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_21.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_22.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_23.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_24.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_GameUI_C_25:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:135][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI_C:WidgetTree.CanvasPanel_0
+[2019.04.10-17.24.45:136][ 42]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_12:GameUI_C_25.WidgetTree_0.CanvasPanel_0
+[2019.04.10-17.24.45:136][ 42]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThievesContent/GameContent/GameUI.GameUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_10) from referencer (Image /Engine/UMG/Editor/Transient.p4greengem).  Import failed...
+[2019.04.10-17.24.45:136][ 42]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_10"''
+[2019.04.10-17.24.50:192][173]LogEditorTransaction: Undo Move Widgets
+[2019.04.10-17.25.45:781][483]BlueprintLog: New page: Compile GameUI
+[2019.04.10-17.25.46:821][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThievesContent/GameContent/GameUI" FILE="C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThievesContent/GameContent/GameUI.uasset" SILENT=true
+[2019.04.10-17.25.46:851][499]LogSavePackage: Moving 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Saved/GameUI969E442943737B046CC6A68D7B80E816.tmp' to 'C:/Users/Cormac/Desktop/PIGDE-Thieves/Content/ThievesContent/GameContent/GameUI.uasset'
+[2019.04.10-17.27.16:622][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-17.27.38:237][510]LogUObjectBase: Warning: Object is not registered
+[2019.04.10-17.27.39:046][510]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.809 s
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: 
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: Stack: 
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff9145171f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff914250c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff91426b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff9102a11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff9102b060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff90d3fda7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff90bf9ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff90bf5f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff919de8204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff91a02e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff919e4281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff919e18190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff919e0b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff9480dd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff9480d0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff9480df4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff9480cc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-17.27.39:047][510]LogOutputDevice: Error: [Callstack] 0x00007ff97d6f6d41 USER32.dll!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: [Callstack] 0x00007ff97d6f6713 USER32.dll!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: [Callstack] 0x00007ff9480e0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: [Callstack] 0x00007ff7e1c854e5 UE4Editor.exe!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: [Callstack] 0x00007ff7e1c95b3c UE4Editor.exe!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: [Callstack] 0x00007ff7e1c95bba UE4Editor.exe!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: [Callstack] 0x00007ff7e1ca3dac UE4Editor.exe!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: [Callstack] 0x00007ff7e1ca5aaa UE4Editor.exe!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: [Callstack] 0x00007ff97d1f3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: [Callstack] 0x00007ff97e073691 ntdll.dll!UnknownFunction []
+[2019.04.10-17.27.39:048][510]LogOutputDevice: Error: 
+[2019.04.10-17.27.39:059][510]LogStats:                SubmitErrorReport -  0.000 s
